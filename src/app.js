@@ -1,5 +1,7 @@
 import $ from 'jquery';
 import _ from 'underscore';
+import Backbone from 'backbone';
+
 import ApplicationView from 'app/views/application_view';
 
 const simulate = function(quote) {
